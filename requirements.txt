@@ -1,0 +1,5 @@
+pynput==1.7.6
+
+smtplib==3.12
+
+ssl==1.16 
